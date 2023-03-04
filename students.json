@@ -1,6 +1,6 @@
 [
     {
-        "nom ": "john doe",
+        "nom": "john doe",
         "classe" : "GLSI",
         "modules" : [
                 {
@@ -19,7 +19,7 @@
         "moyenne" : 14
     },
     {
-        "nom ": "jane doe",
+        "nom": "jane doe",
         "classe" : "GLSI",
         "modules" : [
                 {
@@ -33,4 +33,5 @@
             ],
         "moyenne" : 11
     }
+    
 ]
